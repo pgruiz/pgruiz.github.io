@@ -3,7 +3,8 @@ $h1border: 5px solid black;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
     height: 500px;
     h1 {
-        height: 500px;
+        height: 100px;
+        padding: 20px;
         text-align: center;
         border: $h1border;
         background-color: cyan;
