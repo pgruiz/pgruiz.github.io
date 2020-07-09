@@ -1,6 +1,9 @@
 $h1border: 5px solid black;
-h1 {
-    text-align: center;
-    border: $h1border;
-    background-color: cyan;
+div {
+    height: 300px;
+    h1 {
+        text-align: center;
+        border: $h1border;
+        background-color: cyan;
+    }
 }
